@@ -35,5 +35,10 @@ Some output after executing the package and giving a short navigation goal to th
 
     {"distance_travelled": 3.999623505291731}
 
+## Possible future improvements
 
+ - [ ] Separate nodes and use launcher
+ - [ ] Improve file handling for performance, both in memory usage and IO
+ - [ ] Error handling
+ - [ ] More info to track
 
