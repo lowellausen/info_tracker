@@ -40,5 +40,7 @@ Some output after executing the package and giving a short navigation goal to th
  - [ ] Separate nodes and use launcher
  - [ ] Improve file handling for performance, both in memory usage and IO
  - [ ] Error handling
+ - [ ] Check and handle situation where simulation stops and starts again
+ - [ ] Improve cuncurrency handling (either separating nodes or mutexing callbacks)
  - [ ] More info to track
 
