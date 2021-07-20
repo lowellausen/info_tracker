@@ -6,7 +6,7 @@ Simple ROS package that tracks the following info on a robot:
  1. Total distance travelled, either by teleoperation or autonomous driving.
  2. Paths that have been driven through autonomous driving to reach a goal.
  
-Both informations are logged to json files located in your current_path/log. 
+Both informations are logged to json files located in your current path. 
 
 For distance there's only one file that will record the total distance driven.
 For each goal one file will be generated, containing: path taken towards the goal, distance driven, status if goal was reached (status = reached) or not (status = preempted).
